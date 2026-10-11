@@ -231,6 +231,12 @@
     const left = 50 - assign.size;
     if (left > 0 && !confirm(`${left} state${left > 1 ? "s are" : " is"} still unnamed. Submit anyway?`)) return;
     submitted = true; selected = null; showTruth = false;
+    // count completed quizzes as a GoatCounter event (no personal data; score bucket only)
+    if (window.goatcounter && window.goatcounter.count) {
+      const right = features.filter(f => assign.get(f.id) === truthOf(f.id)).length;
+      window.goatcounter.count({ path: "quiz-submitted", title: "Quiz submitted", event: true });
+      window.goatcounter.count({ path: "score-" + (Math.floor(right / 10) * 10) + "s", title: "Score band", event: true });
+    }
     d3.select("#submit").attr("disabled", true);
     d3.select("#toggle").attr("hidden", null).text("Show correct map");
     render(); showResults();
@@ -285,5 +291,7 @@
   render();
 })();
 </script>
+<!-- GoatCounter: privacy-friendly visit counts, no cookies -->
+<script data-goatcounter="https://bruced.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>
