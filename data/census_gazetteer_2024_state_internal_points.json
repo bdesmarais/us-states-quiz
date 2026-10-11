@@ -1,0 +1,352 @@
+[
+{
+"usps": "AL",
+"geoid": "01",
+"name": "Alabama",
+"lat": 32.739579,
+"lon": -86.843447
+},
+{
+"usps": "AK",
+"geoid": "02",
+"name": "Alaska",
+"lat": 63.347356,
+"lon": -152.839733
+},
+{
+"usps": "AZ",
+"geoid": "04",
+"name": "Arizona",
+"lat": 34.203936,
+"lon": -111.606345
+},
+{
+"usps": "AR",
+"geoid": "05",
+"name": "Arkansas",
+"lat": 34.895526,
+"lon": -92.444626
+},
+{
+"usps": "CA",
+"geoid": "06",
+"name": "California",
+"lat": 37.155177,
+"lon": -119.543418
+},
+{
+"usps": "CO",
+"geoid": "08",
+"name": "Colorado",
+"lat": 38.993767,
+"lon": -105.508712
+},
+{
+"usps": "CT",
+"geoid": "09",
+"name": "Connecticut",
+"lat": 41.579864,
+"lon": -72.746657
+},
+{
+"usps": "DE",
+"geoid": "10",
+"name": "Delaware",
+"lat": 38.998566,
+"lon": -75.441644
+},
+{
+"usps": "FL",
+"geoid": "12",
+"name": "Florida",
+"lat": 28.398978,
+"lon": -82.5143
+},
+{
+"usps": "GA",
+"geoid": "13",
+"name": "Georgia",
+"lat": 32.629579,
+"lon": -83.423511
+},
+{
+"usps": "HI",
+"geoid": "15",
+"name": "Hawaii",
+"lat": 19.828167,
+"lon": -155.495042
+},
+{
+"usps": "ID",
+"geoid": "16",
+"name": "Idaho",
+"lat": 44.348422,
+"lon": -114.558854
+},
+{
+"usps": "IL",
+"geoid": "17",
+"name": "Illinois",
+"lat": 40.102875,
+"lon": -89.152611
+},
+{
+"usps": "IN",
+"geoid": "18",
+"name": "Indiana",
+"lat": 39.901314,
+"lon": -86.291913
+},
+{
+"usps": "IA",
+"geoid": "19",
+"name": "Iowa",
+"lat": 42.070024,
+"lon": -93.493347
+},
+{
+"usps": "KS",
+"geoid": "20",
+"name": "Kansas",
+"lat": 38.498546,
+"lon": -98.38343
+},
+{
+"usps": "KY",
+"geoid": "21",
+"name": "Kentucky",
+"lat": 37.533684,
+"lon": -85.29298
+},
+{
+"usps": "LA",
+"geoid": "22",
+"name": "Louisiana",
+"lat": 30.708319,
+"lon": -91.604621
+},
+{
+"usps": "ME",
+"geoid": "23",
+"name": "Maine",
+"lat": 45.409284,
+"lon": -68.666616
+},
+{
+"usps": "MD",
+"geoid": "24",
+"name": "Maryland",
+"lat": 38.946658,
+"lon": -76.674494
+},
+{
+"usps": "MA",
+"geoid": "25",
+"name": "Massachusetts",
+"lat": 42.15652,
+"lon": -71.489592
+},
+{
+"usps": "MI",
+"geoid": "26",
+"name": "Michigan",
+"lat": 44.844177,
+"lon": -85.660491
+},
+{
+"usps": "MN",
+"geoid": "27",
+"name": "Minnesota",
+"lat": 46.315957,
+"lon": -94.199604
+},
+{
+"usps": "MS",
+"geoid": "28",
+"name": "Mississippi",
+"lat": 32.686471,
+"lon": -89.656138
+},
+{
+"usps": "MO",
+"geoid": "29",
+"name": "Missouri",
+"lat": 38.35075,
+"lon": -92.456783
+},
+{
+"usps": "MT",
+"geoid": "30",
+"name": "Montana",
+"lat": 47.051177,
+"lon": -109.634817
+},
+{
+"usps": "NE",
+"geoid": "31",
+"name": "Nebraska",
+"lat": 41.543305,
+"lon": -99.811865
+},
+{
+"usps": "NV",
+"geoid": "32",
+"name": "Nevada",
+"lat": 39.331093,
+"lon": -116.615147
+},
+{
+"usps": "NH",
+"geoid": "33",
+"name": "New Hampshire",
+"lat": 43.672794,
+"lon": -71.584189
+},
+{
+"usps": "NJ",
+"geoid": "34",
+"name": "New Jersey",
+"lat": 40.107274,
+"lon": -74.665201
+},
+{
+"usps": "NM",
+"geoid": "35",
+"name": "New Mexico",
+"lat": 34.434684,
+"lon": -106.131618
+},
+{
+"usps": "NY",
+"geoid": "36",
+"name": "New York",
+"lat": 42.913397,
+"lon": -75.596272
+},
+{
+"usps": "NC",
+"geoid": "37",
+"name": "North Carolina",
+"lat": 35.53971,
+"lon": -79.130864
+},
+{
+"usps": "ND",
+"geoid": "38",
+"name": "North Dakota",
+"lat": 47.442174,
+"lon": -100.460826
+},
+{
+"usps": "OH",
+"geoid": "39",
+"name": "Ohio",
+"lat": 40.41493,
+"lon": -82.711997
+},
+{
+"usps": "OK",
+"geoid": "40",
+"name": "Oklahoma",
+"lat": 35.590081,
+"lon": -97.486779
+},
+{
+"usps": "OR",
+"geoid": "41",
+"name": "Oregon",
+"lat": 43.971712,
+"lon": -120.622958
+},
+{
+"usps": "PA",
+"geoid": "42",
+"name": "Pennsylvania",
+"lat": 40.904604,
+"lon": -77.827523
+},
+{
+"usps": "RI",
+"geoid": "44",
+"name": "Rhode Island",
+"lat": 41.596485,
+"lon": -71.52649
+},
+{
+"usps": "SC",
+"geoid": "45",
+"name": "South Carolina",
+"lat": 33.874178,
+"lon": -80.854264
+},
+{
+"usps": "SD",
+"geoid": "46",
+"name": "South Dakota",
+"lat": 44.446796,
+"lon": -100.238176
+},
+{
+"usps": "TN",
+"geoid": "47",
+"name": "Tennessee",
+"lat": 35.85846,
+"lon": -86.349634
+},
+{
+"usps": "TX",
+"geoid": "48",
+"name": "Texas",
+"lat": 31.434703,
+"lon": -99.281824
+},
+{
+"usps": "UT",
+"geoid": "49",
+"name": "Utah",
+"lat": 39.334993,
+"lon": -111.656333
+},
+{
+"usps": "VT",
+"geoid": "50",
+"name": "Vermont",
+"lat": 44.058954,
+"lon": -72.671017
+},
+{
+"usps": "VA",
+"geoid": "51",
+"name": "Virginia",
+"lat": 37.522251,
+"lon": -78.668194
+},
+{
+"usps": "WA",
+"geoid": "53",
+"name": "Washington",
+"lat": 47.407324,
+"lon": -120.5758
+},
+{
+"usps": "WV",
+"geoid": "54",
+"name": "West Virginia",
+"lat": 38.647285,
+"lon": -80.618327
+},
+{
+"usps": "WI",
+"geoid": "55",
+"name": "Wisconsin",
+"lat": 44.630907,
+"lon": -89.709392
+},
+{
+"usps": "WY",
+"geoid": "56",
+"name": "Wyoming",
+"lat": 42.989659,
+"lon": -107.544392
+}
+]
